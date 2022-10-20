@@ -1,4 +1,9 @@
-﻿
+﻿/*
+Caroline Hana
+10-19-2022
+Madlib Mini Challenge 5
+input answers to questions to make a story
+*/
 
 Console.Clear();
 string? playAgain = "yes";
